@@ -15,5 +15,4 @@ console.log(codeB);
 console.log(message);
 
 console.log(message + codeA);
-
 console.log(message + codeB);
