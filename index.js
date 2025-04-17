@@ -16,4 +16,4 @@ console.log(message);
 
 console.log(message + codeA);
 
-console.log(message + codeA);
+console.log(message + codeB);
